@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Konversi_nilai",
+            "request": "launch",
+            "mainClass": "Konversi_nilai",
+            "projectName": "Percabangan.java_62ca918a"
+        },
+        {
+            "type": "java",
+            "name": "bilangan_ganjilGenap",
+            "request": "launch",
+            "mainClass": "bilangan_ganjilGenap",
+            "projectName": "Percabangan.java_62ca918a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Discount_belanja",
+            "request": "launch",
+            "mainClass": "Discount_belanja",
+            "projectName": "Percabangan.java_62ca918a"
+        }
+    ]
+}
